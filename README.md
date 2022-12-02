@@ -8,6 +8,7 @@
 
 ## History
 + [CSBS](https://github.com/PlanckerLabs/CSBS)
++ 重构所有基础架构，创新设计产品流程和交互，重写所有代码。
 
 ## Upgrade 
 ### Small version issues
